@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/NooshinEslahian/portfolio-nooshin-eslahian/static/css/main.1b73412e.css",
-    "main.js": "/NooshinEslahian/portfolio-nooshin-eslahian/static/js/main.3ac2afd3.js",
-    "static/media/mypic.JPG": "/NooshinEslahian/portfolio-nooshin-eslahian/static/media/mypic.f41c2d29ad5d7de1cdef.JPG",
-    "static/media/oriflame.png": "/NooshinEslahian/portfolio-nooshin-eslahian/static/media/oriflame.e507a1054ebdb1af020f.png",
-    "static/media/figma-project.png": "/NooshinEslahian/portfolio-nooshin-eslahian/static/media/figma-project.3c56a9dae7561032bccb.png",
-    "static/media/apple-site.png": "/NooshinEslahian/portfolio-nooshin-eslahian/static/media/apple-site.acf96bf6f73a5c0f2b32.png",
-    "static/media/microsoft.png": "/NooshinEslahian/portfolio-nooshin-eslahian/static/media/microsoft.dec96baf92ab9411ec3e.png",
-    "static/media/sass.png": "/NooshinEslahian/portfolio-nooshin-eslahian/static/media/sass.91714f748188b46f4e33.png",
-    "static/media/smoke.png": "/NooshinEslahian/portfolio-nooshin-eslahian/static/media/smoke.6021c1921e60690e5ce2.png",
-    "static/media/figma.png": "/NooshinEslahian/portfolio-nooshin-eslahian/static/media/figma.72fbc535ebe253a5dbc4.png",
-    "static/media/bootstrap.png": "/NooshinEslahian/portfolio-nooshin-eslahian/static/media/bootstrap.268c4375260420e8d982.png",
-    "index.html": "/NooshinEslahian/portfolio-nooshin-eslahian/index.html",
-    "main.1b73412e.css.map": "/NooshinEslahian/portfolio-nooshin-eslahian/static/css/main.1b73412e.css.map",
-    "main.3ac2afd3.js.map": "/NooshinEslahian/portfolio-nooshin-eslahian/static/js/main.3ac2afd3.js.map"
+    "main.css": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/css/main.1b73412e.css",
+    "main.js": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/js/main.7154cb7e.js",
+    "static/media/mypic.JPG": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/media/mypic.f41c2d29ad5d7de1cdef.JPG",
+    "static/media/oriflame.png": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/media/oriflame.e507a1054ebdb1af020f.png",
+    "static/media/figma-project.png": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/media/figma-project.3c56a9dae7561032bccb.png",
+    "static/media/apple-site.png": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/media/apple-site.acf96bf6f73a5c0f2b32.png",
+    "static/media/microsoft.png": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/media/microsoft.dec96baf92ab9411ec3e.png",
+    "static/media/sass.png": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/media/sass.91714f748188b46f4e33.png",
+    "static/media/smoke.png": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/media/smoke.6021c1921e60690e5ce2.png",
+    "static/media/figma.png": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/bootstrap.png": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/media/bootstrap.268c4375260420e8d982.png",
+    "index.html": "/NooshinEslahian/portfolio-nooshin-eslahian.git/index.html",
+    "main.1b73412e.css.map": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/css/main.1b73412e.css.map",
+    "main.7154cb7e.js.map": "/NooshinEslahian/portfolio-nooshin-eslahian.git/static/js/main.7154cb7e.js.map"
   },
   "entrypoints": [
     "static/css/main.1b73412e.css",
-    "static/js/main.3ac2afd3.js"
+    "static/js/main.7154cb7e.js"
   ]
 }
